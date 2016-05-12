@@ -1,5 +1,5 @@
-# KDD2016
-This is the code and data used for the manuscript submitted to the KDD 2016 conference
+# MOD2016
+This is the code and data used for the manuscript submitted to the MOD 2016 conference
 # Meaning
 This code optimizes forest management based real and simulated data
 # Requirements
